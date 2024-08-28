@@ -1,0 +1,43 @@
+{
+  "authors": [
+    {
+      "name": "Timur Moziev",
+      "github": "TimurRin",
+      "email": "timur.moziev@gmail.com",
+      "type": "author",
+      "status": "active",
+      "url": "https://timurrin.github.io/"
+    }
+  ],
+  "cinnabarMeta": {
+    "dataVersion": 0,
+    "version": {
+      "latest": "0.0.0",
+      "timestamp": 0
+    },
+    "files": [
+      {
+        "path": "./package.json",
+        "type": "nodejs-package-json"
+      },
+      {
+        "path": "./package-lock.json",
+        "type": "nodejs-package-lock-json"
+      }
+    ],
+    "repo": {
+      "type": "github",
+      "value": "cinnabar-forge/node-html-builder"
+    },
+    "updateChangelog": true
+  },
+  "development": {
+    "readme": {}
+  },
+  "namings": {
+    "npmPackage": "@cinnabar-forge/html-builder",
+    "text": "Cinnabar Forge HTML Builder"
+  },
+  "type": "library",
+  "stack": "nodejs"
+}
